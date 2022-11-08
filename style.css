@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&family=Bebas+Neue&display=swap');
+
+body{
+    background-color: rgba(0, 0, 0);
+    
+}
+
+#firstBlock{
+    background-color: bisque;
+}
+
+#gate1{
+    visibility: hidden;
+}
